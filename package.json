@@ -1,0 +1,19 @@
+{
+  "name": "fwsdt-35",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+     "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/VISHNUMOHANS-FULLSTACKWEBDEVELOPER/FWSDT-35.git)"
+  },
+  "author": "vishnu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
